@@ -102,7 +102,7 @@ releases:
     releaseDate: 2022-10-07
 
 ---
-
+# small test
 > The iPhone is a line of smartphones designed and marketed by Apple Inc. that use Apple's iOS mobile operating system.
 
 Most likely, new iPhone models will come out in September every year (with a few possible exceptions). iPhone support (supported devices gets the latest iOS updates) is quite long. Apple occasionally releases security updates for much older devices, such as [this security fix in iOS 12.5.2](https://support.apple.com/HT212257) which was pushed to iPhone 6 and iPhone 5S.
